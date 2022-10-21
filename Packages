@@ -67,6 +67,26 @@ Priority: optional
 Author: Mingle
 Name: mask破解插件
 
+Package: com.saurik.substrate.safemode
+Version: 0.9.6005
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.3367+38)
+Conflicts: safe-mode-fixer-ios7
+Replaces: safe-mode-fixer-ios7
+Filename: ./debs/com.saurik.substrate.safemode_0.9.6005_iphoneos-arm.deb
+Size: 22736
+MD5sum: 73e56c9f8209fc56c8852bfcfd5b23d7
+SHA1: 8bb7866945dac32ad68648ebf38ca343fa715b7d
+SHA256: de3f3c5e0bfde32d61e14daaca7a7899a73215f94753a77fca1aa4203b018c87
+Section: Tweaks
+Priority: optional
+Description: safe mode safety extension (safe)
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.substrate.safemode/
+Name: Substrate Safe Mode
+
 Package: com.tigisoftware.filza
 Version: 3.8.1-29
 Architecture: iphoneos-arm
@@ -111,4 +131,22 @@ Description: powerful code insertion platform
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/mobilesubstrate/
 Name: Cydia Substrate
+
+Package: re.frida.server
+Version: 16.0.1
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 52492
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_16.0.1_iphoneos-arm.deb
+Size: 15919684
+MD5sum: c92a230664169765f50b1e0903efa700
+SHA1: fdc7af774a269e3476516f6a4ebad584b94a1229
+SHA256: c5a4dc95f74642445ae64de5f3a1389c9fe1626a87c69e1a330c7c012da8cc86
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
 
