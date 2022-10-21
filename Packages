@@ -1,0 +1,28 @@
+Package: apt.zscool.net.mask
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: mxsf
+Installed-Size: 8392
+Filename: ./debs/apt.zscool.net.mask_2.1.1_iphoneos-arm.deb
+Size: 4022540
+MD5sum: 257b416e5e93df4bfe3d9b93462c665d
+SHA1: 3c580a9f1923b7ac32b31dbdd91ab0a3bc46a944
+SHA256: 67a0f3bc6f36ddee7453ef13cf64c87536ea17b8aedcd631af68419fa5c6585b
+Section: Mask屏蔽越狱
+Author: mxsf
+Name: Mask面具正版2.1.1（推荐）
+
+Package: com.mingle.bypassmask
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.mingle.bypassmask_0.1-1_iphoneos-arm.deb
+Size: 31816
+MD5sum: 3304a10db43cd713929ed95e23a1a2c5
+SHA1: 054cd91ca186a5d67729da1440cd174b02d95ab4
+SHA256: 78ad41721119be33979755ded5d7c893e9ac02f6b5d90dbc69be0d9b96e02846
+Section: System
+Priority: optional
+Author: Mingle
+Name: bypassmask
+
