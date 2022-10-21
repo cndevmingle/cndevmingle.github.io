@@ -3,11 +3,11 @@ Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: mxsf
 Installed-Size: 8392
-Filename: ./debs/mask_2.1.1_iphoneos-arm.deb
-Size: 4022926
-MD5sum: 735ad0ce94740058e63cf2718edec19d
-SHA1: a491f320254ebdfc07d3bbceb7c7ecd2ecf5ceb3
-SHA256: c5940ba0f1cec8b25deac577c3eea4447aa1d06b2045a58492798935b0b1d7be
+Filename: ./debs/mask_2.1.1.deb
+Size: 4022660
+MD5sum: 11bb32c43c4ba8c623ec21472e1938e4
+SHA1: 7ef703935857e45c1f5f3288f37d2af6eb692e63
+SHA256: 08859b454f9393acdecf7c873b4562f866dc64dd483add9bf5b668e54f33337b
 Section: 屏蔽越狱
 Description: rootfs屏蔽越狱
 Author: mxsf
