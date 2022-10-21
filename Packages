@@ -13,6 +13,21 @@ Description: rootfs屏蔽越狱
 Author: mxsf
 Name: Mask面具正版2.1.1
 
+Package: com.cydiabc.xkfilza
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: filza
+Filename: ./debs/filza_bypass.deb
+Size: 9596
+MD5sum: c00aee8652ee14401d5c886bb910125e
+SHA1: 944f10d741286995017dc338af645eda494ea2fe
+SHA256: b9ded3e8c504d97b35718c68aae558d4325cb5d1cc57a2ef5658aaa3542cd623
+Section: Utilities
+Description: Filza破解插件
+Tag: role::hacker
+Author: filza
+Name: Filza破解插件
+
 Package: com.mingle.bypassmask
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -26,4 +41,28 @@ Section: 屏蔽越狱
 Priority: optional
 Author: Mingle
 Name: mask破解插件
+
+Package: com.tigisoftware.filza
+Version: 3.8.1-29
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 29112
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/filzafilemanager_3.8.1-29.deb
+Size: 9529174
+MD5sum: 245e8bf0ca69f5410690a54d65780569
+SHA1: 848fee7311c1a980e6c38dea75f8ce4974b2079a
+SHA256: 5d28b39b87ceb613ee9da2f687b6f5af4bb7febbf500c4321893a75f16c84e63
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::uikit
+Author: TIGI Software <satashi2009@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
 
