@@ -38,26 +38,6 @@ Dev: cannathea
 Name: Apple File Conduit "2" (iOS 11+, arm64)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.cydiabc.xkfilza
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Ai-小苹果™
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/apt.cydiabc.top_filzabypass.deb
-Size: 6368
-MD5sum: 91d9ec3b591b747b3cf97a4cdf8fd6cb
-SHA1: 41db87a0cc678f76c966e125d0af52942041f6da
-SHA256: 30d0de3b3615df7e140c1887d0c2d3a15a96a7eaf3b320a54b14ff08c18eb10f
-Section: 工具
-Description: Filza破解全功能插件，此补丁搭配正版Filza使用，破解版Filza请勿安装此补丁
-A12: 1
-Author: Ai-小苹果
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Icon2: 5.png
-Name: Filza File 文件管理器【破解补丁】
-Sponsor: Ai-小苹果™
-
 Package: com.mingle.bypassmask
 Version: 0.1-1
 Architecture: iphoneos-arm
