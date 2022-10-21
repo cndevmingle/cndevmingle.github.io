@@ -9,7 +9,7 @@ find ../ -name ".DS_Store" -depth -exec rm {} \;
 # 			fi
 #     done
 
-dpkg-scanpackages -m ./debs > ./Packages
+sudo dpkg-scanpackages -m ./debs > ./Packages
 bzip2 -fks ./Packages
 
 git add .
