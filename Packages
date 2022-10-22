@@ -47,6 +47,22 @@ Priority: optional
 Author: Mingle
 Name: mask破解插件
 
+Package: com.mingle.tshack
+Version: 0.0.1-47
+Architecture: iphoneos-arm
+Maintainer: Mingle
+Installed-Size: 196
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.mingle.tshack_0.0.1-47_iphoneos-arm.deb
+Size: 27618
+MD5sum: 783bd9b45a42e0da02d5a310617409d0
+SHA1: 1a8031f6b5693f7f200d154d0f74b58e0e30931f
+SHA256: 97e713ba03ed4c4d25989f9fad9372b0496b044a55452faf2b9875ffbdb8ef0a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Mingle
+Name: TouchSpriteHack
+
 Package: re.frida.server
 Version: 16.0.1
 Architecture: iphoneos-arm
