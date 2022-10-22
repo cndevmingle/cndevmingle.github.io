@@ -48,20 +48,20 @@ Author: Mingle
 Name: mask破解插件
 
 Package: com.mingle.tshack
-Version: 0.0.1-47
+Version: 0.0.1-48
 Architecture: iphoneos-arm
 Maintainer: Mingle
 Installed-Size: 196
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.mingle.tshack_0.0.1-47_iphoneos-arm.deb
-Size: 27618
-MD5sum: 783bd9b45a42e0da02d5a310617409d0
-SHA1: 1a8031f6b5693f7f200d154d0f74b58e0e30931f
-SHA256: 97e713ba03ed4c4d25989f9fad9372b0496b044a55452faf2b9875ffbdb8ef0a
+Filename: ./debs/com.mingle.tshack_0.0.1-48_iphoneos-arm.deb
+Size: 27688
+MD5sum: 83c9d1cff3b9f1434bc192a4f288c4d3
+SHA1: f6288e6aa28c0452b71b4ab2e1114463abb8a5aa
+SHA256: 84ac5c8a6a765d9f7e9595e779ef7325fd86760776dc91491f2d45b9f2e2ec09
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: 用户处理触动精灵锁机后，重新生成设备信息
 Author: Mingle
-Name: TouchSpriteHack
+Name: 触动精灵过锁机
 
 Package: re.frida.server
 Version: 16.0.1
