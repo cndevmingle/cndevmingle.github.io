@@ -48,16 +48,16 @@ Author: Mingle
 Name: mask破解插件
 
 Package: com.mingle.tshack
-Version: 0.0.1-48
+Version: 0.0.1-49
 Architecture: iphoneos-arm
 Maintainer: Mingle
 Installed-Size: 196
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.mingle.tshack_0.0.1-48_iphoneos-arm.deb
+Filename: ./debs/com.mingle.tshack_0.0.1-49_iphoneos-arm.deb
 Size: 27688
-MD5sum: 83c9d1cff3b9f1434bc192a4f288c4d3
-SHA1: f6288e6aa28c0452b71b4ab2e1114463abb8a5aa
-SHA256: 84ac5c8a6a765d9f7e9595e779ef7325fd86760776dc91491f2d45b9f2e2ec09
+MD5sum: b6c1f3803d933c05c49bb7ea839733ba
+SHA1: 4fb60d4e7b3d2284c942c9e97cd9a5399ef56f4c
+SHA256: 2e1b8181493ec2d11488b5a3f128bdf2081b30039e42e5376ad309310859b962
 Section: Tweaks
 Description: 用户处理触动精灵锁机后，重新生成设备信息
 Author: Mingle
