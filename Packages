@@ -13,6 +13,31 @@ Description: rootfs屏蔽越狱
 Author: mxsf
 Name: Mask面具正版2.1.1
 
+Package: com.cannathea.afc2d-arm64
+Version: 1.1.6-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 539
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/afc2kppless_1.1.6-1.deb
+Size: 22470
+MD5sum: 2747ed858b71f8496f188c9802307f8e
+SHA1: 828f94218a18ddd26a023cf1fcb13dc11c1bcdb7
+SHA256: cc5dfeae4f971c726211b983589517aa96fd8db826bc2f752795a73b72f860aa
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.
+Tag: purpose::daemon
+Author: saurik, Cannathea <csupport@cannathea.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Dev: cannathea
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.cydiabc.xkfilza
 Version: 1.1-1
 Architecture: iphoneos-arm
