@@ -39,10 +39,10 @@ Maintainer: Ai-小苹果™
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/filza_bypass.deb
-Size: 9404
-MD5sum: 5c12f60e215121875816b9eea6846256
-SHA1: f52c902ce7e71a79904f2823a61bb45740096cb6
-SHA256: 3a4dbf0bcd2f6bf4f03834f573d8d08cdd51d6988f9e3f262aa222114094f089
+Size: 9122
+MD5sum: 38ff6dc9a8986264fa7ea251b9351316
+SHA1: f25904495f460ecfad5d9f667e94672576c7c66e
+SHA256: 8bd7c7aaca72d14ad9dcce096e6cf10220fa74bc69d83b9789b4ab803b9ad574
 Section: 工具
 Description: Filza破解全功能插件，此补丁搭配正版Filza使用，破解版Filza请勿安装此补丁
 A12: 1
