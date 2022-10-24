@@ -1,0 +1,151 @@
+Package: apt.zscool.net.mask
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: mxsf
+Installed-Size: 8392
+Filename: ./debs/mask_2.1.1.deb
+Size: 4022660
+MD5sum: 11bb32c43c4ba8c623ec21472e1938e4
+SHA1: 7ef703935857e45c1f5f3288f37d2af6eb692e63
+SHA256: 08859b454f9393acdecf7c873b4562f866dc64dd483add9bf5b668e54f33337b
+Section: 屏蔽越狱
+Description: rootfs屏蔽越狱
+Author: mxsf
+Name: Mask面具正版2.1.1
+
+Package: com.abcydia.NetControl
+Version: 1.0.1-8
+Architecture: iphoneos-arm
+Maintainer: WZteam <admin@abcydia.com>
+Depends: mobilesubstrate
+Conflicts: com.abcydia.conditionalwifi4
+Filename: ./debs/netcontroller.deb
+Size: 939286
+MD5sum: 447b1d0ccbe77a448e2a7ea886c65f9c
+SHA1: 9432c08e322bf7e9cf0336f44349e93fa0c05eb1
+SHA256: 4e9a021a3db19ba2218714a31b34cfd76712b5c882e870608e77bf00406b7303
+Section: Utilities
+Description: 设置 App 蜂窝&WiFi 网络接入控制
+Tag: Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ABCydia <admin@abcydia.com>
+Icon: Icon: file:///Library/PreferenceBundles/NetControl.bundle/abcydia@2x.png
+Name: NetControl 联网控制
+Sponsor: ABCydia <http://www.abcydia.com>
+
+Package: com.cydiabc.xkfilza
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/filza_bypass.deb
+Size: 9404
+MD5sum: 5c12f60e215121875816b9eea6846256
+SHA1: f52c902ce7e71a79904f2823a61bb45740096cb6
+SHA256: 3a4dbf0bcd2f6bf4f03834f573d8d08cdd51d6988f9e3f262aa222114094f089
+Section: 工具
+Description: Filza破解全功能插件，此补丁搭配正版Filza使用，破解版Filza请勿安装此补丁
+A12: 1
+Author: Ai-小苹果
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Icon2: 5.png
+Name: Filza File 文件管理器【破解补丁】
+Sponsor: Ai-小苹果™
+
+Package: com.mingle.afc2d-arm64
+Version: 1.1.6-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 539
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/afc2kppless_1.1.6-1.deb
+Size: 22438
+MD5sum: 411bf4d5b8de948b5823f13866d85466
+SHA1: 7cef975230ec26952edb5899f7f859df91bcdf47
+SHA256: cd5020338e63b05c15c5cb3905dcc3fda0a31cc312f3eb6e73885e7ede552136
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.
+Tag: purpose::daemon
+Author: saurik, Cannathea <csupport@cannathea.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Dev: cannathea
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.mingle.bypassmask
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/bypassmask.deb
+Size: 31810
+MD5sum: a9906f7aee9c73b61b6340fedef6080c
+SHA1: 7c9a6c39f41d0ba26aebfceea3fd9c8ff11d43a1
+SHA256: 196faaa1d89cacd8ab63e4008f5438cb19768ce48eb954fcbcb89f94511f1ce4
+Section: 屏蔽越狱
+Priority: optional
+Author: Mingle
+Name: mask破解插件
+
+Package: com.mingle.tshack
+Version: 0.0.2-11
+Architecture: iphoneos-arm
+Maintainer: Mingle
+Installed-Size: 248
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.mingle.tshack_0.0.2-11_iphoneos-arm.deb
+Size: 57956
+MD5sum: 2ddd671867ea99246d828b55a020ef5a
+SHA1: 53896d61a246461e39c25e08f908a177dffad641
+SHA256: 0bd03946f7bda601e4324686c70b34c44c3ffefde87703747fbdef6c697c242e
+Section: Tweaks
+Description: 用户处理触动精灵锁机后，重新生成设备信息
+Author: Mingle
+Name: 触动精灵过锁机
+
+Package: com.tigisoftware.filza.mingle
+Version: 3.8.1-29
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 29112
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/filzafilemanager_3.8.1-29.deb
+Size: 12938248
+MD5sum: 58ca4ce809977dd6f76a1eb28b040856
+SHA1: 6be0cd3b9ca9d44dc6b6c05a68bc116e4fe84050
+SHA256: 633624602481255839954435dd61ef839a27cc01b4d9b5c49725be9ef2766b75
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::uikit
+Author: TIGI Software <satashi2009@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: re.frida.server
+Version: 16.0.1
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 52492
+Conflicts: re.frida.server64
+Filename: ./debs/re.frida.server_16.0.1_iphoneos-arm.deb
+Size: 15919684
+MD5sum: c92a230664169765f50b1e0903efa700
+SHA1: fdc7af774a269e3476516f6a4ebad584b94a1229
+SHA256: c5a4dc95f74642445ae64de5f3a1389c9fe1626a87c69e1a330c7c012da8cc86
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
