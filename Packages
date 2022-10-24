@@ -1,3 +1,23 @@
+Package: apt.zscool.net.appsyncunified10
+Version: 84.0
+Architecture: iphoneos-arm
+Maintainer: WZteam <admin@abcydia.com>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/appsync_unified.deb
+Size: 64116
+MD5sum: 067016af3c4f17d618d20c7a4e8bbcfe
+SHA1: ad73f4e7bb7195418c3b8a171a106b1f65bf418e
+SHA256: 45bbfd5a50be09e0869051432b270f647535718c14c23205a73b93f30e78b27f
+Section: Tweak
+Description: 关闭APP签名验证
+Author: Linus Yang, Karen
+Name: AppSync Unified 关闭签名
+Sponsor: ABCydia <http://www.abcydia.com>
+
 Package: apt.zscool.net.mask
 Version: 2.1.1
 Architecture: iphoneos-arm
