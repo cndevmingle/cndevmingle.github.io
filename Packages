@@ -20,10 +20,10 @@ Maintainer: WZteam <admin@abcydia.com>
 Depends: mobilesubstrate
 Conflicts: com.abcydia.conditionalwifi4
 Filename: ./debs/netcontroller.deb
-Size: 939286
-MD5sum: 447b1d0ccbe77a448e2a7ea886c65f9c
-SHA1: 9432c08e322bf7e9cf0336f44349e93fa0c05eb1
-SHA256: 4e9a021a3db19ba2218714a31b34cfd76712b5c882e870608e77bf00406b7303
+Size: 938518
+MD5sum: d0f95c05c3d8618e553d6bbfc262df39
+SHA1: 006636b732b01f4fba23c708ced1b1f19cab4c61
+SHA256: 0ac43798e726d808459eb735465a2ad85191b31d8dfb4d89b702555654aeeab7
 Section: Utilities
 Description: 设置 App 蜂窝&WiFi 网络接入控制
 Tag: Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
@@ -115,10 +115,10 @@ Installed-Size: 29112
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 Filename: ./debs/filzafilemanager_3.8.1-29.deb
-Size: 12938248
-MD5sum: 58ca4ce809977dd6f76a1eb28b040856
-SHA1: 6be0cd3b9ca9d44dc6b6c05a68bc116e4fe84050
-SHA256: 633624602481255839954435dd61ef839a27cc01b4d9b5c49725be9ef2766b75
+Size: 12937334
+MD5sum: 09b4d24f0c41b79b9f242631714cdd5c
+SHA1: 5320af14412e61051eddf3666103d959a713b6da
+SHA256: 82f21ebcbda4c1c448cc6d40980d86a162a0a4c99b065bcb49691a844c66f765
 Section: Utilities
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
