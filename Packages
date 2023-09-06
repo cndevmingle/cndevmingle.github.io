@@ -35,21 +35,6 @@ Author: Linus Yang, Karen
 Name: AppSync Unified 关闭签名
 Sponsor: ABCydia <http://www.abcydia.com>
 
-Package: apt.zscool.net.mask
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: mxsf
-Installed-Size: 8392
-Filename: ./debs/mask_2.1.1.deb
-Size: 4022660
-MD5sum: 11bb32c43c4ba8c623ec21472e1938e4
-SHA1: 7ef703935857e45c1f5f3288f37d2af6eb692e63
-SHA256: 08859b454f9393acdecf7c873b4562f866dc64dd483add9bf5b668e54f33337b
-Section: 屏蔽越狱
-Description: rootfs屏蔽越狱
-Author: mxsf
-Name: Mask面具正版2.1.1
-
 Package: com.abcydia.NetControl
 Version: 1.0.1-8
 Architecture: iphoneos-arm
@@ -127,6 +112,21 @@ Section: 屏蔽越狱
 Priority: optional
 Author: Mingle
 Name: mask破解插件
+
+Package: com.mingle.dobby
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mingle
+Filename: ./debs/dobby.deb
+Size: 36870
+MD5sum: 610fe08c7c329bf78ca0635f20081314
+SHA1: d26ac98c8918247dbef28384cd45a0aff7c91de3
+SHA256: 98466389363f3cfb26e7791388ce4d7dcad155dffbca4b03ea4078ea705a2730
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: Mingle
+Name: Dobby
 
 Package: com.mingle.tshack
 Version: 0.0.2-11
