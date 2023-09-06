@@ -1,3 +1,18 @@
+Package: Dobby
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Mingle
+Filename: ./debs/dobby.deb
+Size: 36364
+MD5sum: e1518c391993ef4a6650d9cc5db4e9ef
+SHA1: af27ef7a4751ffda27a7eeb7361d2c426aa76d5c
+SHA256: 129e7af2ebc66e49ea4d0218e50f579c1ebc3d07b2463781b5347ab1bfeff2df
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: Mingle
+Name: Dobby
+
 Package: apt.zscool.net..otadisabler
 Version: 0.1-9
 Architecture: iphoneos-arm
@@ -112,21 +127,6 @@ Section: 屏蔽越狱
 Priority: optional
 Author: Mingle
 Name: mask破解插件
-
-Package: com.mingle.dobby
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Mingle
-Filename: ./debs/dobby.deb
-Size: 36374
-MD5sum: 5700c614eb3701dad8e4079052eea6e9
-SHA1: a156ee43aac9091954e9b3f2efb45de154fb249b
-SHA256: 9476604f9543b594aee5209a0282746837b0953d38e1deac83985491f3f53921
-Section: System
-Description: An awesome library of some sort!!
-Tag: role::developer
-Author: Mingle
-Name: Dobby
 
 Package: com.mingle.tshack
 Version: 0.0.2-11
