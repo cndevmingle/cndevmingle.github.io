@@ -118,10 +118,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Mingle
 Filename: ./debs/dobby.deb
-Size: 36870
-MD5sum: 610fe08c7c329bf78ca0635f20081314
-SHA1: d26ac98c8918247dbef28384cd45a0aff7c91de3
-SHA256: 98466389363f3cfb26e7791388ce4d7dcad155dffbca4b03ea4078ea705a2730
+Size: 36374
+MD5sum: 5700c614eb3701dad8e4079052eea6e9
+SHA1: a156ee43aac9091954e9b3f2efb45de154fb249b
+SHA256: 9476604f9543b594aee5209a0282746837b0953d38e1deac83985491f3f53921
 Section: System
 Description: An awesome library of some sort!!
 Tag: role::developer
