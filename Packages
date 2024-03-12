@@ -89,6 +89,24 @@ Icon2: 5.png
 Name: Filza File 文件管理器【破解补丁】
 Sponsor: Ai-小苹果™
 
+Package: com.mingle.Moon
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mingle
+Depends: Dobby, zip, unzip
+Filename: ./debs/Moon_20240312102210.deb
+Size: 1344898
+MD5sum: 50766e3fcde2b8e018601312710d6610
+SHA1: c5ad34c1d416e71302703d23df4a5fc7004cf3e6
+SHA256: 706e815bd5fc9c417f5826c0f0fc3bc46f8a3207f736d9be2ff7f42d0822922e
+Section: System
+Homepage: https://cndevmingle.github.io/
+Description: anti jailbreak detection
+Tag: role::developer
+Author: Mingle
+Icon: file:///Applications/MoonApp.app/AppIcon1024.png
+Name: Moon
+
 Package: com.mingle.afc2d-arm64
 Version: 1.1.6-1
 Architecture: iphoneos-arm
