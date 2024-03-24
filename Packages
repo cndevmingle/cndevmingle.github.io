@@ -2,7 +2,7 @@ Package: Dobby
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Mingle
-Filename: ./debs/dobby.deb
+Filename: ./debs/dobby_rootfull.deb
 Size: 36364
 MD5sum: e1518c391993ef4a6650d9cc5db4e9ef
 SHA1: af27ef7a4751ffda27a7eeb7361d2c426aa76d5c
@@ -12,6 +12,21 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Author: Mingle
 Name: Dobby
+
+Package: Dobby.rootless
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Mingle
+Filename: ./debs/dobby_rootless.deb
+Size: 36864
+MD5sum: b2f4e085e55dc3a7d93d8987f6a80f83
+SHA1: 7c65c4461dc90a0bed617a08e8792a66f7bd883d
+SHA256: 7a6e4849b6dbb462603fe0ee043d9cb20d041d122a0ae284fb65b5afa6a3125b
+Section: System
+Description: Dobby Rootless Library.
+Tag: role::developer
+Author: Mingle
+Name: Dobby Rootless Library
 
 Package: apt.zscool.net..otadisabler
 Version: 0.1-9
