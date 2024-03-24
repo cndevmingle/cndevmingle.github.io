@@ -18,10 +18,10 @@ Version: 0.0.2
 Architecture: all
 Maintainer: Mingle
 Filename: ./debs/dobby_rootless.deb
-Size: 36854
-MD5sum: 9045a6e40583ff1af9b70e4861632c80
-SHA1: 72995ad9a83fb01ece64380b3ce2a98cb8da2aa2
-SHA256: 63f8fb9ae09a3fd822145137b2e09721e02c762ba36fe2255ea545b10ed11cf4
+Size: 36396
+MD5sum: 172038806a886290e84b12bef327aee7
+SHA1: f0234efeb2df014c46dd8a857840f96098db9fd4
+SHA256: 64b6a01bbcc4559d7c5e41feacdef51e21392c235327bf23e7adb50a0a2ff8b3
 Section: Rootless
 Description: Dobby Rootless Library.
 Tag: role::developer
