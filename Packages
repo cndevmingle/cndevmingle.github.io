@@ -18,11 +18,11 @@ Version: 0.0.2
 Architecture: iphoneos-all
 Maintainer: Mingle
 Filename: ./debs/dobby_rootless.deb
-Size: 36862
-MD5sum: b87b8f8fba237492e106aba9eb096103
-SHA1: 927a5ae7f9b4d2b2b1addfbb2010243add506484
-SHA256: 4b6de8250f8da11219af6140ab193353d3b498ed896893372d71a6761288d33c
-Section: System
+Size: 36860
+MD5sum: 33fcedc6554ca83de150cb8cc9bf6ce1
+SHA1: 77d5f809437abe99ef5809a998b62a05bf314e98
+SHA256: 1fb1c63e68a815ee7c59b4a1bf4cb1a044a8ca6f4909ce04bde1658e47fa90fa
+Section: Rootless
 Description: Dobby Rootless Library.
 Tag: role::developer
 Author: Mingle
