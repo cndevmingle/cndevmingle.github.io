@@ -15,13 +15,13 @@ Name: Dobby
 
 Package: Dobby.rootless
 Version: 0.0.2
-Architecture: iphoneos-all
+Architecture: iphoneos-arm64
 Maintainer: Mingle
 Filename: ./debs/dobby_rootless.deb
-Size: 36860
-MD5sum: 33fcedc6554ca83de150cb8cc9bf6ce1
-SHA1: 77d5f809437abe99ef5809a998b62a05bf314e98
-SHA256: 1fb1c63e68a815ee7c59b4a1bf4cb1a044a8ca6f4909ce04bde1658e47fa90fa
+Size: 36862
+MD5sum: edba76a128cf24210cac42ebc5dcf606
+SHA1: f4dca6a2b3b2258bec150b491063d2d6e745a0a7
+SHA256: b40653a920356b2e0b4b213d0d8ac84cca53eb8394aa6a5543c76802509d2f41
 Section: Rootless
 Description: Dobby Rootless Library.
 Tag: role::developer
